@@ -16,12 +16,6 @@ A modular FPGA system built in VHDL on the **Basys3 (Artix-7)** board. Takes ASC
 
 ---
 
-## Demo
-
-YouTube: https://youtu.be/D44ysD2qB30
-
----
-
 ## Button Map
 
 | Button | Function |
